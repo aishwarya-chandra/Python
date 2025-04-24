@@ -5,6 +5,9 @@
 
 ![alt text](image-2.png)
 
+# COMPILER OF PYTHON
+C, C++
+
 # MUTABLE AND IMMUTABLE
 ![alt text](image-4.png)
 
