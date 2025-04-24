@@ -1,15 +1,9 @@
-# welcome to the python series | chai aur python
+# INNER WORKING OF PYTHON
+![alt text](image.png)
 
-Hanji, ye python ki series hai, jisme hum python ke bare me seekhenge. Ye series hindi me hai, jisse aapko samajhne me aasani hogi. Ye series kuch is tarah se hogi ki ab aapko python ko samajhne me koi dikkat nahi hogi. Is series me hum python ke basics se lekar advance tak ke topics cover karenge. Bht saara behind the scenes bhi seekhne ko milega. Toh chaliye shuru karte hai.
+![alt text](image-1.png)
 
-## Youtube
-series aapko "chai aur code" youtube channel pe milegi. 
+![alt text](image-2.png)
 
-## PR
-Please isme koi PR request na kare. 
-
-## Support
-[Discord](https://hitesh.ai/discord)
-
-## Whatsapp
-[Whatsapp](https://hitesh.ai/whatsapp)
+# IMMUTABLE MEANING
+Python assigns a memory and creates reference to that memory where everything is stored as an object assigned particular memory references. Changing reference (for eg: animal = "cat" , animal = "dog" [animal pointed to cat reference and then to dog reference , note that "dog" was not overwritten at assigned memory of "cat"]) is allowed but changing value inside the assigned memory created ("cat" or "dog") is not allowed i.e, are immutable. If an assigned memory is not being referenced by anyone, garbage collector deletes it from the memory.
